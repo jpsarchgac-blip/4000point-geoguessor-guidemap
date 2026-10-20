@@ -1,4 +1,3 @@
-<img width="2580" height="1240" alt="スクリーンショット 2026-10-20 195307" src="https://github.com/user-attachments/assets/62949cf4-277a-49c4-9b88-e84cd2366ab3" />
 # GeoGuessor — 出題エリアマップ
 
 GeoGuessr の **World** マップ向けに、公式 Street View カバー国の分布と攻略用メタ情報を **インタラクティブな世界地図** で見る Web アプリです。
@@ -40,9 +39,8 @@ GeoGuessr の **World** マップ向けに、公式 Street View カバー国の�
 
 ## スクリーンショット
 
-<!-- 必要なら public/ や src/assets/hero.png をここに -->
+<img width="2580" height="1240" alt="スクリーンショット 2026-10-20 195307" src="https://github.com/user-attachments/assets/5ed1a625-60b6-44c3-8515-0edecde386d0" />
 
-![出題エリアマップのプレビュー](./src/assets/hero.png)
 
 ## 技術スタック
 
